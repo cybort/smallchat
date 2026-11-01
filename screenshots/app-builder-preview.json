@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "闲话",
+      "hasCanvas": false,
+      "bodyTextLen": 3463,
+      "bodyTextHash": "14d9d7939f471836deed7b00e80a0960bf58e5e028b317c5bc47b9ebbba655e7",
+      "bodyTextPrefix": "闲话 两台机器之间，线上只看见闲聊 控制口先用长期公钥做一次握手，数据口再用会话密钥走流量。两口分开，都可以改。外面做统计，看到",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "闲话",
+      "hasCanvas": false,
+      "bodyTextLen": 3409,
+      "bodyTextHash": "8a7ae430ba52716dcc36b9d049b1f8d62baca5a3b3da2b4ad1be1c5ec5000f2c",
+      "bodyTextPrefix": "闲话 两台机器之间，线上只看见闲聊 控制口先用长期公钥做一次握手，数据口再用会话密钥走流量。两口分开，都可以改。外面做统计，看到",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #12110e;
+  --color-surface: #1c1a16;
+  --color-surface-2: #26231e;
+  --color-paper: #f3eee4;
+  --color-ink: #1c1915;
+  --color-fg: #f3eee4;
+  --color-muted: #a39a8c;
+  --color-sage: #a3b18a;
+  --color-sage-ink: #243024;
+  --color-ember: #c45c3e;
+  --color-border: #3a342c;
+  --font-sans: "Liberation Sans", "WenQuanYi Zen Hei", "Noto Sans CJK SC", sans-serif;
+  --font-serif: "Liberation Serif", "WenQuanYi Zen Hei", "Noto Serif CJK SC", serif;
+  --radius-card: 1rem;
+}
+
+@layer base {
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+
+  body {
+    margin: 0;
+    background: var(--color-bg);
+    color: var(--color-fg);
+    font-family: var(--font-sans);
+    line-height: 1.5;
+  }
+
+  input,
+  textarea {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .svg-card svg {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}

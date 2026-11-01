@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="闲话">
+  <rect width="32" height="32" rx="7" fill="#12110e"/>
+  <rect x="7.5" y="4.5" width="17" height="23" rx="1.4" fill="#f3eee4"/>
+  <rect x="10.5" y="9" width="11" height="1.7" rx="0.6" fill="#a3b18a"/>
+  <rect x="10.5" y="12.6" width="8.5" height="1.7" rx="0.6" fill="#a3b18a"/>
+  <rect x="10.5" y="16.2" width="10" height="1.7" rx="0.6" fill="#a3b18a"/>
+  <circle cx="19.6" cy="22.2" r="2.7" fill="#c45c3e"/>
+</svg>
